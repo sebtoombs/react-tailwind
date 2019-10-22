@@ -2,6 +2,13 @@
 
 An example app showcasing how to use React with Styled Components & Tailwindcss
 
+## Installation
+
+- Clone this repo
+- `yarn install`
+- `yarn develop`
+- Note: I haven't included any browsersync/live server etc. Run the index.html to view. If your IDE has a liveserver built in, use that.
+
 ## Things To Note
 
 - When installing tailwind.macro, currently need to run `yarn add tailwind.macro@next` to get the version compatible with tailwind@1
